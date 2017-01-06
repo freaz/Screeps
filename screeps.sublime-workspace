@@ -1,0 +1,1944 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"show",
+				"showMigrationMiddleware"
+			],
+			[
+				"migration",
+				"migrationType"
+			],
+			[
+				"proje",
+				"project"
+			],
+			[
+				"fetc",
+				"fetchedProjects"
+			],
+			[
+				"pr",
+				"projects"
+			],
+			[
+				"subsc",
+				"subscribe"
+			],
+			[
+				"new",
+				"newTeam"
+			],
+			[
+				"chosen",
+				"chosenPlan"
+			],
+			[
+				"pla",
+				"plans"
+			],
+			[
+				"send",
+				"sendStatus"
+			],
+			[
+				"migratio",
+				"migrationType"
+			],
+			[
+				"migra",
+				"migrationType"
+			],
+			[
+				"team",
+				"teamName"
+			],
+			[
+				"viwer",
+				"viewers"
+			],
+			[
+				"editor",
+				"editors"
+			],
+			[
+				"updated",
+				"updatedUser"
+			],
+			[
+				"legacy",
+				"legacyPlan\t(datamodel.coffee)"
+			],
+			[
+				"total",
+				"totalViewers"
+			],
+			[
+				"reso",
+				"resources"
+			],
+			[
+				"PROJE",
+				"PROJECT_PERSONAL_VIEWERS"
+			],
+			[
+				"PREO",
+				"PROJECT_PERSONAL_EDITORS"
+			],
+			[
+				"ensure",
+				"ensureLogin"
+			],
+			[
+				"with",
+				"withCredentials"
+			],
+			[
+				"contr",
+				"control\t(migration.coffee)"
+			],
+			[
+				"people",
+				"peopleManagerUrlTemplate\t(migration.coffee)"
+			],
+			[
+				"coffee",
+				"coffee-script\t(package.json)"
+			],
+			[
+				"SignU",
+				"SignUpPage"
+			],
+			[
+				"ex",
+				"exports\t(Gruntfile.coffee)"
+			],
+			[
+				"cons",
+				"constructor\t(utils.coffee)"
+			],
+			[
+				"page",
+				"pageAlias"
+			],
+			[
+				"get",
+				"getUrlFor"
+			],
+			[
+				"requ",
+				"require\t(chimp.coffee)"
+			],
+			[
+				"SSL",
+				"SSL_PORT"
+			],
+			[
+				"circle",
+				"circleci-3"
+			],
+			[
+				"feature",
+				"features_output"
+			],
+			[
+				"allowe",
+				"allowedViewersPersonalPlan\t(migration.coffee)"
+			],
+			[
+				"allo",
+				"allowedEditorsPersonalPlan\t(migration.coffee)"
+			],
+			[
+				"allow",
+				"allowedEditorsPersonalPlan"
+			],
+			[
+				"proj",
+				"project"
+			],
+			[
+				"projec",
+				"project"
+			],
+			[
+				"status",
+				"statusCode"
+			],
+			[
+				"process",
+				"processed"
+			],
+			[
+				"project",
+				"project"
+			],
+			[
+				"ed",
+				"editor\t(datamodel.coffee)"
+			],
+			[
+				"in",
+				"invitation"
+			],
+			[
+				"inv",
+				"invitations"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"error",
+				"errorThrown"
+			],
+			[
+				"resolve",
+				"resolveIssues\t(payments.coffee)"
+			],
+			[
+				"di",
+				"disabled\t(_resolveIssues.html)"
+			],
+			[
+				"resol",
+				"resolveIssues\t(payments.coffee)"
+			],
+			[
+				"make",
+				"makeAllPublic"
+			],
+			[
+				"erro",
+				"errorThrown"
+			],
+			[
+				"err",
+				"error\t(payments.coffee)"
+			],
+			[
+				"refresh",
+				"refreshUrl"
+			],
+			[
+				"refre",
+				"refreshUrl"
+			],
+			[
+				"res",
+				"resources"
+			],
+			[
+				"pa",
+				"partial"
+			],
+			[
+				"par",
+				"partial"
+			],
+			[
+				"Rende",
+				"rendering"
+			],
+			[
+				"_",
+				"_projectsSummary.html"
+			],
+			[
+				"projects",
+				"projectsSummary"
+			],
+			[
+				"mem",
+				"membersLimit"
+			],
+			[
+				"member",
+				"members"
+			],
+			[
+				"memb",
+				"membersCount"
+			],
+			[
+				"viw",
+				"viewersCount\t(migration.coffee)"
+			],
+			[
+				"le",
+				"legacy"
+			],
+			[
+				"edi",
+				"editors"
+			],
+			[
+				"viwe",
+				"viwers"
+			],
+			[
+				"vie",
+				"viewers"
+			],
+			[
+				"viewer",
+				"viewersCount"
+			],
+			[
+				"edit",
+				"editorsCount\t(migration.coffee)"
+			],
+			[
+				"viwers",
+				"viwersCount"
+			],
+			[
+				"PROJECT_STA",
+				"PROJECT_STANDARD_VIEWERS"
+			],
+			[
+				"PRO",
+				"PROJECT_PRO_VIEWERS"
+			],
+			[
+				"can",
+				"canMigrate"
+			],
+			[
+				"result",
+				"results"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"resove",
+				"resolveIssues"
+			],
+			[
+				"init",
+				"initUserSections"
+			],
+			[
+				"cre",
+				"createTeam\t(_createTeam.html)"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"q",
+				"jQuery"
+			],
+			[
+				"sho",
+				"showResolveIssues"
+			],
+			[
+				"js-show",
+				"js-showCreateTeam\t(user.html)"
+			],
+			[
+				"createTeam__step",
+				"createTeam__stepAction"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"subm",
+				"submitUrl"
+			],
+			[
+				"over",
+				"overLimit"
+			],
+			[
+				"private",
+				"privateProjects"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"proe",
+				"project"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"lega",
+				"legacy\t(paymentSubscription.coffee)"
+			],
+			[
+				"con",
+				"conditions"
+			],
+			[
+				"Object",
+				"ObjectId"
+			],
+			[
+				"option",
+				"optionDisabled"
+			],
+			[
+				"max",
+				"maxCollaborators"
+			],
+			[
+				"meme",
+				"membersCount"
+			],
+			[
+				"cho",
+				"chosenPlan"
+			],
+			[
+				"MIGRA",
+				"PLANS_MIGRATION_ERROR"
+			],
+			[
+				"list",
+				"listTeamMembers\t(payments.coffee)"
+			],
+			[
+				"PLANS",
+				"PLANS_MIGRATION_ERROR"
+			],
+			[
+				"PLANS_",
+				"PLANS_MIGRATION_ERROR\t(payments.coffee)"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"plan",
+				"planType"
+			],
+			[
+				"Pay",
+				"paymentPlan"
+			],
+			[
+				"invita",
+				"invitations"
+			],
+			[
+				"Invite",
+				"InviteCode"
+			],
+			[
+				"disab",
+				"disableStandard"
+			],
+			[
+				"ca",
+				"canSelect"
+			],
+			[
+				"containe",
+				"containerSelector"
+			],
+			[
+				"standa",
+				"standardBtn"
+			],
+			[
+				"planType",
+				"planType:changed\t(planTypeSelector.coffee)"
+			],
+			[
+				"disabl",
+				"disableStandard\t(payments.coffee)"
+			],
+			[
+				"4",
+				"49B7FF"
+			],
+			[
+				"teams",
+				"teamSizeSelector"
+			],
+			[
+				"teamS",
+				"teamSizeSelector"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"grut",
+				"gruntOptions"
+			],
+			[
+				"defa",
+				"defaultOptions"
+			],
+			[
+				"chim",
+				"chimpBin"
+			],
+			[
+				"play",
+				"planTypePro"
+			],
+			[
+				"line",
+				"line-height"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 49.0,
+		"last_filter": "close all",
+		"selected_items":
+		[
+			[
+				"close all",
+				"File: Close All"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jvasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"blmae",
+				"Git: Blame"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"copy proje",
+				"File: Copy Path From Project"
+			],
+			[
+				"copy pro",
+				"File: Copy Path From Project"
+			],
+			[
+				"refresh",
+				"Project: Refresh Folders"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"refres",
+				"Project: Refresh Folders"
+			],
+			[
+				"refre",
+				"Project: Refresh Folders"
+			],
+			[
+				"unfold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"lose all",
+				"File: Close All"
+			],
+			[
+				"opy pro",
+				"File: Copy Path From Project"
+			],
+			[
+				"cop ypro",
+				"File: Copy Path From Project"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"toggle c",
+				"Toggle Comment"
+			],
+			[
+				"toggle s",
+				"View: Toggle Side Bar"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"clo",
+				"File: Close All"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"close ",
+				"File: Close All"
+			],
+			[
+				"los",
+				"File: Close All"
+			],
+			[
+				"clos e",
+				"File: Close All"
+			],
+			[
+				"blma",
+				"Git: Blame"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"refer",
+				"Project: Refresh Folders"
+			],
+			[
+				"cloe",
+				"File: Close All"
+			],
+			[
+				"close al",
+				"File: Close All"
+			],
+			[
+				"copy po",
+				"File: Copy Path From Project"
+			],
+			[
+				"cloe all",
+				"File: Close All"
+			],
+			[
+				"cl",
+				"File: Close All"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"Close all",
+				"File: Close All"
+			],
+			[
+				"copy prpo",
+				"File: Copy Path From Project"
+			],
+			[
+				"refreh",
+				"Project: Refresh Folders"
+			],
+			[
+				"close l",
+				"File: Close All"
+			],
+			[
+				"opy p",
+				"File: Copy Path"
+			],
+			[
+				"copy pto",
+				"File: Copy Path From Project"
+			],
+			[
+				"copy",
+				"File: Copy Path From Project"
+			],
+			[
+				"refr",
+				"Project: Refresh Folders"
+			],
+			[
+				"clos",
+				"File: Close All"
+			],
+			[
+				"docker",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"projec",
+				"Project: Close"
+			],
+			[
+				"copy rpo",
+				"File: Copy Path From Project"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"ect",
+				"Set Syntax: ECT <%"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"toggle",
+				"Toggle Comment"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ref",
+				"Project: Refresh Folders"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install a",
+				"Package Control: Install Package"
+			],
+			[
+				"set sy",
+				"Set Syntax: HTML"
+			],
+			[
+				"rrefre",
+				"Project: Refresh Folders"
+			],
+			[
+				"commne",
+				"Toggle Comment"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"set json",
+				"Set Syntax: JSON"
+			],
+			[
+				"clos al",
+				"File: Close All"
+			],
+			[
+				"revel",
+				"File: Reveal"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"gitgutte",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"gitgu",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"listpack",
+				"Package Control: List Packages"
+			],
+			[
+				"istall pa",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sideba",
+				"View: Toggle Side Bar"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"listpac",
+				"Package Control: List Packages"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"installpac",
+				"Package Control: Install Package"
+			],
+			[
+				"coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"package lis",
+				"Package Control: List Packages"
+			],
+			[
+				"packagel",
+				"Package Control: List Packages"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"bl",
+				"Git: Blame"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"lsit",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/freaz/Workspaces/Apiary/apiary/views/payments/migration/team.html",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/config.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/controllers/payments.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/payments/migration.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/parser/index.coffee",
+		"/Users/freaz/Desktop/ps-differences.md",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/parser/request-modifiers/helium-parser.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/controllers/control.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/jsapi/previews.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/controllers/jsapi.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/Gruntfile.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/payments/index.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/tasks/payments.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/views/payments/migration/_createTeam.html",
+		"/Users/freaz/Workspaces/Apiary/apiary/test/functional/features-rights/private-api-projects-test.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/datamodel.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/styles/components/payments/migrationAssistant/resolveIssues.styl",
+		"/Users/freaz/Workspaces/Apiary/apiary/views/payments/migration/_resolveIssues.html",
+		"/Users/freaz/Workspaces/Apiary/apiary/views/payments/migration/user.html",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/frontendrenderer.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/controllers/docs.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/controllers/jsapi/teams.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/models/paymentSubscription.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/README.md",
+		"/Users/freaz/Workspaces/Apiary/apiary/views/payments/migration/_planTypeSelector.html",
+		"/Users/freaz/Workspaces/Apiary/apiary/test/unit-backend/payments/migration-test.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/routes/payments/migration.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/js/global-signedin.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/js/people-manager.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/applications/payments.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/applications/docs.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/multiuser.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/controllers/login.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/middlewares.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/controllers/shared-routes.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/utils.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/middlewares/cspHeader.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/js/api-validations.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/views/login/organisation-settings.html",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/views/ui/header/baseHeader.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/views/ui/header/apiMenu.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/modules/constructUrl.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/templates/ui/header/apiMenu.ect",
+		"/Users/freaz/Workspaces/Apiary/apiary/features/pages/Page.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/features/pages/signup.page.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/features/step_definitions/pageNavigation.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/tasks/chimp.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/tasks/chimp.conf.js",
+		"/Users/freaz/Workspaces/Apiary/apiary/features/login/registration.feature",
+		"/Users/freaz/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/freaz/Workspaces/Apiary/apiary/features/step_definitions/pageNavigation.js",
+		"/Users/freaz/Workspaces/Apiary/apiary/features/pages/signup.page.js",
+		"/Users/freaz/Workspaces/Apiary/apiary/features/pages/Page.js",
+		"/Users/freaz/Workspaces/Apiary/apiary/views/login/register.html",
+		"/Users/freaz/Workspaces/Apiary/apiary/test/support/bernard.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/test/support/browser/browser.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/test/support/browser/actions/goToApiEditor.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/.gitignore",
+		"/Users/freaz/Workspaces/Apiary/apiary/test/support/helpers/initScenario.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/test/support/helpers/tearDownApiary.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/tasks/test/test-karma.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/tasks/test/test-mocha.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/tasks/test.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/js/payments/refreshPartial.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/js/payments/planSelector.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/payments/plans-list.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/views/payments/migration/_projectsSummary.html",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/analytics/users.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/apis.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/cmd/change-suite-ownership.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/controllers/admin.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/views/payments/migration/_header.html",
+		"/Users/freaz/Workspaces/Apiary/apiary/test/unit-backend/paymentsubscription-test.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/styles/components/payments/migrationAssistant.styl",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/views/ui/header/paymentsHeader.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/views/ui/header/teamHeader.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/cmd/migrations/add-implicit-legacy-flag-to-users.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/styles/components/payments/migrationAssistant/upgradePlanButton.styl",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/styles/components/payments/migrationAssistant/createTeam.styl",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/styles/components/payments/migrationAssistant/projectsSummary.styl",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/styles/components/payments/migrationAssistant/teamSizeSelector.styl",
+		"/Users/freaz/Workspaces/Apiary/apiary/views/payments/migration/_teamSizeSelector.html",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/styles/components/payments/migrationAssistant/planTypeSelector.styl",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/js/payments/teamSizeSelector.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/styles/components/payments/migrationAssistant/gracePeriodWarning.styl",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/styles/components/payments/migrationAssistant/header.styl",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/icons/lock-orange.svg",
+		"/Users/freaz/Workspaces/Apiary/apiary/views/payments/migration/_gracePeriodWarning.html",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/styles/components/payments/migrationAssistant/userInfo.styl",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/styles/components/payments/migrationAssistant/teamInfo.styl",
+		"/Users/freaz/Workspaces/Apiary/apiary/package.json",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/applications/base.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/modules/logging.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/styles/application.styl",
+		"/Users/freaz/Workspaces/Apiary/apiary/npm-shrinkwrap.json",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/styles/font-faces.styl",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/css/font-faces.styl",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/userrights.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/test/integration/payments/payments-getSubscription-test.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/cmd/migrations/gravatars-to-ssl.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/cmd/migrations/add-createdAt-to-suites.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/styles/components/payments/planCard.styl",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/styles/components/label.styl",
+		"/Users/freaz/Workspaces/Apiary/apiary/test/functional/payments/standard-plans-discount-test.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/controllers/organisations.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/styles/components/header/links.styl",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/icons/chosen-blue.svg",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/payments/actions.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/icons/upgade.svg",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/icons/branch.svg",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/payments/plans.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/payments/subscriptions.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/models/paymentPlan.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/serverbase.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/js/payments/planTypeSelector.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/styles/components/intercom.styl",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/styles/components/payments/migrationAssistant/primaryButton.styl",
+		"/Users/freaz/Workspaces/Apiary/apiary/build/assets.json",
+		"/Users/freaz/Workspaces/Apiary/apiary/views/mail/invitation.html",
+		"/Users/freaz/Workspaces/Apiary/apiary/public/icons/warning-circle.svg",
+		"/Users/freaz/.zshrc",
+		"/Users/freaz/Workspaces/Apiary/apiary/tasks/environment.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/tasks/test/test-chimp.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/test/support/helpers/setUpApiary.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/tasks/chimp.conf.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/tasks/turbo.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/lib/payments/coupons.coffee",
+		"/Users/freaz/Workspaces/Apiary/apiary/docker-compose.yml"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+			"",
+			"/Users/freaz/Workspaces/Apiary/apiary//views/payments/migration",
+			"",
+			"/Users/freaz/Workspaces/Apiary/apiary//test",
+			"",
+			"/Users/freaz/Workspaces/Apiary/apiary//public/views",
+			"",
+			"/Users/freaz/Workspaces/Apiary/apiary//public/tests",
+			"",
+			"/Users/freaz/Workspaces/Apiary/apiary//public/views/payments",
+			"",
+			"/Users/freaz/Workspaces/Apiary/apiary//test/",
+			"/Users/freaz/Workspaces/Apiary/apiary//test/functional/payments",
+			"/Users/freaz/Workspaces/Apiary/apiary//test",
+			"",
+			"/Users/freaz/Workspaces/Apiary/apiary//public",
+			"",
+			"/Users/freaz/Workspaces/Apiary/apiary//public",
+			"",
+			"/Users/freaz/Workspaces/Apiary/apiary//public/views/ui/header",
+			"",
+			"*.styl",
+			"",
+			"/Users/freaz/Workspaces/Apiary/apiary/public",
+			"<project>public",
+			"<project>/public",
+			"public",
+			"",
+			"/Users/freaz/Workspaces/Apiary/apiary//cmd/migrations",
+			"/Users/freaz/Workspaces/Apiary/apiary//lib/lifecycle",
+			"",
+			"/Users/freaz/Workspaces/Apiary/apiary/lib/controllers",
+			"",
+			"/Users/freaz/Workspaces/Apiary/apiary/test",
+			"/test",
+			"test",
+			"",
+			"/Users/freaz/Workspaces/Apiary/apiary//test/functional",
+			"/Users/freaz/Workspaces/Apiary/apiary//test",
+			"/Users/freaz/Workspaces/Apiary/apiary/views",
+			"/Users/freaz/Workspaces/Apiary/apiary/lib",
+			"/Users/freaz/Workspaces/Apiary/apiary//lib",
+			"/Users/freaz/Workspaces/Apiary/apiary//public",
+			"/Users/freaz/Workspaces/Apiary/apiary//lib",
+			"/Users/freaz/Workspaces/Apiary/apiary/",
+			"/Users/freaz/Workspaces/Apiary/apiary//lib",
+			"/Users/freaz/Workspaces/Apiary/apiary/",
+			"/Users/freaz/Workspaces/Apiary/apiary//lib",
+			"/Users/freaz/Workspaces/Apiary/apiary/",
+			"/Users/freaz/Workspaces/Apiary/apiary//test/integration/payments",
+			"/Users/freaz/Workspaces/Apiary/apiary",
+			"/Users/freaz/Workspaces/OpenSource/gitlab-ce/config",
+			"/Users/freaz/Workspaces/Apiary/apiary/lib",
+			"/Users/freaz/Workspaces/Apiary/apiary/test/system",
+			"/Users/freaz/Workspaces/Apiary/apiary/test",
+			"/Users/freaz/Workspaces/Apiary/apiary/tasks",
+			"/Users/freaz/Workspaces/Apiary/apiary",
+			"/Users/freaz/Workspaces/Apiary/apiary/views",
+			"/Users/freaz/Workspaces/Apiary/apiary/public",
+			"/Users/freaz/Workspaces/Apiary/apiary/views",
+			"/Users/freaz/Workspaces/Apiary/apiary/tasks",
+			"/Users/freaz/Workspaces/Apiary/apiary/test",
+			"/Users/freaz/Workspaces/Apiary/apiary/",
+			"/Users/freaz/Workspaces/Apiary/apiary/tasks",
+			"/Users/freaz/Workspaces/Apiary/apiary",
+			"/Users/freaz/Workspaces/Apiary/apiary/tasks",
+			"/Users/freaz/Workspaces/Apiary/apiary/test",
+			"/Users/freaz/Workspaces/Apiary/apiary/test/integration/jsapi",
+			"/Users/freaz/Workspaces/Apiary/apiary/tasks",
+			"/Users/freaz/Workspaces/Apiary/apiary/test/integration",
+			"/Users/freaz/Workspaces/Apiary/apiary/test/fixtures",
+			"/Users/freaz/Workspaces/Apiary/apiary/lib",
+			"/Users/freaz/Workspaces/Apiary/apiary/test",
+			"/Users/freaz/Workspaces/Apiary/apiary/lib",
+			"/Users/freaz/Workspaces/Apiary/apiary/test",
+			"/Users/freaz/Workspaces/Apiary/apiary",
+			"/Users/freaz/Workspaces/Apiary/apiary/test",
+			"/Users/freaz/Workspaces/Apiary/apiary",
+			"/Users/freaz/Workspaces/Apiary/apiary/tasks",
+			"/Users/freaz/Workspaces/Apiary/apiary/lib",
+			"/Users/freaz/Workspaces/Apiary/apiary",
+			"/Users/freaz/Workspaces/Apiary/apiary/lib",
+			"/Users/freaz/Workspaces/Apiary/apiary/lib/controllers",
+			"/Users/freaz/Workspaces/Apiary/apiary"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<<<<",
+			"getSubsc",
+			"<<<",
+			"PARSER_UNKNOWN_FORMAT_RECEIVED",
+			"transformParsingServiceResponse",
+			"requestParsingService",
+			"PARSING_SERVICE_URL",
+			"user error",
+			"PARSING",
+			"user error",
+			"USER_ERROR",
+			"showMigrationMiddleware",
+			"res.status",
+			"proPlan",
+			"requestUserProPlan",
+			"createTeam",
+			"createTeamF",
+			"migration/user",
+			"migratePrivateProjectsToTeam",
+			"makeAllUserProjectsPublic",
+			"documentationAppHybridRenderer",
+			"suiteschema",
+			"setOrganisationAdmin",
+			"createTeamForUser",
+			"actions.",
+			"Organisation.establish",
+			"SSL Certificates",
+			"ssl",
+			"requestProPlan",
+			", ",
+			"proPlanRequested",
+			"reachedStandardCollaboratorsLimit",
+			"reachedCollaboratorsLimit",
+			"filterProjectsWithCollaboratorsOverLimit",
+			"reachedStandardCollaboratorsLimit",
+			"close",
+			"remove",
+			"close",
+			"console.log",
+			"attachCommonVariables",
+			"docs",
+			"control",
+			"shared-routes",
+			"serverBase",
+			"attachCommonVariables",
+			"controllerSign",
+			"/apis/:vanity",
+			"req.vanity =",
+			"req.vanity",
+			"attac",
+			"attachS",
+			"attachSuite",
+			"attachSuite]",
+			"settings/prop",
+			".get ",
+			"attachSuite",
+			"ensureLogin",
+			"cors",
+			"addC",
+			"settings/people",
+			".ajax",
+			"ajaxUserFormSubmission",
+			"PeopleManager",
+			"$.ajax",
+			"$.get",
+			".options",
+			"control",
+			"currentDomainBase",
+			"getUrlFor",
+			"makeAllPublic",
+			"data('base",
+			"base",
+			"%s",
+			"people",
+			"ajaxLink",
+			"peopleLink",
+			"people",
+			"peopleLink",
+			"peopleClick",
+			"@",
+			" =",
+			"signup.page",
+			"compi",
+			"oginInputs gaTrackingForm",
+			"alias",
+			".goTo",
+			"snippetInterface",
+			"e2e_output",
+			"chimp",
+			"selg",
+			"projectEditors",
+			"InviteCode",
+			"async.map",
+			"async.each",
+			"each",
+			"setAsPublic",
+			"makePublic",
+			"resolveIssues__stepAction",
+			"renderEngine",
+			"res.render",
+			"render",
+			"settings/people",
+			"rendererWrap",
+			"res.html",
+			"res.sen",
+			"req.query",
+			"migration",
+			"Plans",
+			"plans",
+			"coupons",
+			"avatarsLib",
+			"avatars",
+			"avatarsLib",
+			"DATE_OF_V1_PLANS_END",
+			"disableStandard",
+			"reachedStandardCollaborators",
+			"reachedStandardCollaboratorsLimit",
+			"membersMaxProjectCollaborators",
+			"isStandardDisabled",
+			"reachedStandardCollaborators",
+			"maxEditors",
+			"currentEditors",
+			"current",
+			"max",
+			"reachedStandardCollaboratorsLimit",
+			"submit",
+			"collaboratorsCount",
+			"reachedStandardCollaboratorsLimit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MarGo-output":
+	{
+		"height": 154.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"views/payments/migration/team.html",
+				"views/payments/migration/team.html"
+			],
+			[
+				"lib/payments/migration.coffee",
+				"lib/payments/migration.coffee"
+			],
+			[
+				"lib/controllers/payments.coffee",
+				"lib/controllers/payments.coffee"
+			],
+			[
+				"lib/config.coffee",
+				"lib/config.coffee"
+			],
+			[
+				"parser/inde",
+				"lib/parser/index.coffee"
+			],
+			[
+				"helium-parser",
+				"lib/parser/request-modifiers/helium-parser.coffee"
+			],
+			[
+				"confg",
+				"lib/config.coffee"
+			],
+			[
+				"control",
+				"lib/controllers/control.coffee"
+			],
+			[
+				"preview",
+				"lib/jsapi/previews.coffee"
+			],
+			[
+				"grunt",
+				"Gruntfile.coffee"
+			],
+			[
+				"config",
+				"lib/config.coffee"
+			],
+			[
+				"parser/",
+				"lib/parser/index.coffee"
+			],
+			[
+				"controllers/jsa",
+				"lib/controllers/jsapi.coffee"
+			],
+			[
+				"payments/index",
+				"lib/payments/index.coffee"
+			],
+			[
+				"migration",
+				"lib/payments/migration.coffee"
+			],
+			[
+				"payments",
+				"tasks/payments.coffee"
+			],
+			[
+				"datamd",
+				"lib/datamodel.coffee"
+			],
+			[
+				"resolve",
+				"public/styles/components/payments/migrationAssistant/resolveIssues.styl"
+			],
+			[
+				"controllers/docs",
+				"lib/controllers/docs.coffee"
+			],
+			[
+				"fornten",
+				"lib/frontendrenderer.coffee"
+			],
+			[
+				"datam",
+				"lib/datamodel.coffee"
+			],
+			[
+				"datmaode",
+				"lib/datamodel.coffee"
+			],
+			[
+				"controllers/paym",
+				"lib/controllers/payments.coffee"
+			],
+			[
+				"paymentsubsc",
+				"lib/models/paymentSubscription.coffee"
+			],
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"datamodel",
+				"lib/datamodel.coffee"
+			],
+			[
+				"migration-test",
+				"test/unit-backend/payments/migration-test.coffee"
+			],
+			[
+				"global-",
+				"public/js/global-signedin.coffee"
+			],
+			[
+				"middle",
+				"lib/middlewares.coffee"
+			],
+			[
+				"share-ro",
+				"lib/controllers/shared-routes.coffee"
+			],
+			[
+				"peoplemana",
+				"public/js/people-manager.coffee"
+			],
+			[
+				"shared-",
+				"lib/controllers/shared-routes.coffee"
+			],
+			[
+				"controllers/login",
+				"lib/controllers/login.coffee"
+			],
+			[
+				"utils",
+				"lib/utils.coffee"
+			],
+			[
+				"orgnis",
+				"views/login/organisation-settings.html"
+			],
+			[
+				"controllers/lo",
+				"lib/controllers/login.coffee"
+			],
+			[
+				"constructurl",
+				"public/modules/constructUrl.coffee"
+			],
+			[
+				"apimenu",
+				"public/templates/ui/header/apiMenu.ect"
+			],
+			[
+				"views/ui/header/apimenu",
+				"public/views/ui/header/apiMenu.coffee"
+			],
+			[
+				"chimp.conf",
+				"tasks/chimp.conf.js"
+			],
+			[
+				"chimp",
+				"tasks/chimp.coffee"
+			],
+			[
+				"berna",
+				"test/support/bernard.coffee"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"initsce",
+				"test/support/helpers/initScenario.coffee"
+			],
+			[
+				"teardownapiary",
+				"test/support/helpers/tearDownApiary.coffee"
+			],
+			[
+				"confi",
+				"lib/config.coffee"
+			],
+			[
+				"gruntf",
+				"Gruntfile.coffee"
+			],
+			[
+				"gitign",
+				".gitignore"
+			],
+			[
+				"plans-",
+				"lib/payments/plans-list.coffee"
+			],
+			[
+				"datamode",
+				"lib/datamodel.coffee"
+			],
+			[
+				"multiuser",
+				"lib/multiuser.coffee"
+			],
+			[
+				"shared",
+				"lib/controllers/shared-routes.coffee"
+			],
+			[
+				"migraiton",
+				"lib/payments/migration.coffee"
+			],
+			[
+				"controller/paym",
+				"lib/controllers/payments.coffee"
+			],
+			[
+				"test/unit-backend/paymentsubscription-test.coffee",
+				"test/unit-backend/paymentsubscription-test.coffee"
+			],
+			[
+				"controllers/payme",
+				"lib/controllers/payments.coffee"
+			],
+			[
+				"migrationass",
+				"public/styles/components/payments/migrationAssistant.styl"
+			],
+			[
+				"test/unit-backend/payments/migration-test.coffee",
+				"test/unit-backend/payments/migration-test.coffee"
+			],
+			[
+				"paymentsib",
+				"lib/models/paymentSubscription.coffee"
+			],
+			[
+				"plans-list",
+				"lib/payments/plans-list.coffee"
+			],
+			[
+				"plantypese",
+				"views/payments/migration/_planTypeSelector.html"
+			],
+			[
+				"conpaymnt",
+				"lib/controllers/payments.coffee"
+			],
+			[
+				"plans-l",
+				"lib/payments/plans-list.coffee"
+			],
+			[
+				"paymemigration",
+				"lib/payments/migration.coffee"
+			],
+			[
+				"payment",
+				"lib/controllers/payments.coffee"
+			],
+			[
+				"migrationassi",
+				"public/styles/components/payments/migrationAssistant.styl"
+			],
+			[
+				"migrationasse",
+				"public/styles/components/payments/migrationAssistant/teamSizeSelector.styl"
+			],
+			[
+				"user.h",
+				"views/payments/migration/user.html"
+			],
+			[
+				"team.ht",
+				"views/payments/migration/team.html"
+			],
+			[
+				"createteam",
+				"views/payments/migration/_createTeam.html"
+			],
+			[
+				"migration.coff",
+				"public/routes/payments/migration.coffee"
+			],
+			[
+				"teamsizeselector",
+				"public/styles/components/payments/migrationAssistant/teamSizeSelector.styl"
+			],
+			[
+				"teamsi",
+				"public/styles/components/payments/migrationAssistant/teamSizeSelector.styl"
+			],
+			[
+				"migrationa",
+				"public/styles/components/payments/migrationAssistant.styl"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"modules/lo",
+				"public/modules/logging.coffee"
+			],
+			[
+				"base",
+				"public/applications/base.coffee"
+			],
+			[
+				"migrationassistant",
+				"public/styles/components/payments/migrationAssistant.styl"
+			],
+			[
+				"shrin",
+				"npm-shrinkwrap.json"
+			],
+			[
+				"font-face",
+				"public/styles/font-faces.styl"
+			],
+			[
+				"userr",
+				"lib/userrights.coffee"
+			],
+			[
+				"userrgh",
+				"lib/userrights.coffee"
+			],
+			[
+				"lans-",
+				"lib/payments/plans-list.coffee"
+			],
+			[
+				"public/application/doc",
+				"public/applications/docs.coffee"
+			],
+			[
+				"payment/mig",
+				"lib/payments/migration.coffee"
+			],
+			[
+				"controller/pam",
+				"lib/controllers/payments.coffee"
+			],
+			[
+				"lancard",
+				"public/styles/components/payments/planCard.styl"
+			],
+			[
+				"planca",
+				"public/styles/components/payments/planCard.styl"
+			],
+			[
+				"test/functional/payments/standard-plans-discount-test.coffee",
+				"test/functional/payments/standard-plans-discount-test.coffee"
+			],
+			[
+				"views/payments/migration/_plantypeselector.html",
+				"views/payments/migration/_planTypeSelector.html"
+			],
+			[
+				"chosen-blue.svg",
+				"public/icons/chosen-blue.svg"
+			],
+			[
+				"plans",
+				"lib/payments/plans.coffee"
+			],
+			[
+				"actions",
+				"lib/payments/actions.coffee"
+			],
+			[
+				"subscriptions",
+				"lib/payments/subscriptions.coffee"
+			],
+			[
+				"paymentpla",
+				"lib/models/paymentPlan.coffee"
+			],
+			[
+				"lans-lis",
+				"lib/payments/plans-list.coffee"
+			],
+			[
+				"login",
+				"lib/controllers/login.coffee"
+			],
+			[
+				"serverba",
+				"lib/serverbase.coffee"
+			],
+			[
+				"middl",
+				"lib/middlewares.coffee"
+			],
+			[
+				"organisation",
+				"lib/controllers/organisations.coffee"
+			],
+			[
+				"migratin",
+				"lib/payments/migration.coffee"
+			],
+			[
+				"upgradeplanbutton",
+				"public/styles/components/payments/migrationAssistant/upgradePlanButton.styl"
+			],
+			[
+				"paym",
+				"lib/controllers/payments.coffee"
+			],
+			[
+				"plancad",
+				"public/styles/components/payments/planCard.styl"
+			],
+			[
+				"shimp.co",
+				"tasks/chimp.conf.js"
+			],
+			[
+				"chimp.",
+				"tasks/chimp.conf.js"
+			],
+			[
+				"test-moc",
+				"tasks/test/test-mocha.coffee"
+			],
+			[
+				"task/test",
+				"tasks/test.coffee"
+			],
+			[
+				"teardo",
+				"test/support/helpers/tearDownApiary.coffee"
+			],
+			[
+				"setupap",
+				"test/support/helpers/setUpApiary.coffee"
+			],
+			[
+				"initscena",
+				"test/support/helpers/initScenario.coffee"
+			],
+			[
+				"label.styl",
+				"public/styles/components/label.styl"
+			],
+			[
+				"coupons",
+				"lib/payments/coupons.coffee"
+			],
+			[
+				"migratoinass",
+				"public/styles/components/payments/migrationAssistant.styl"
+			],
+			[
+				"paymentpl",
+				"lib/models/paymentPlan.coffee"
+			],
+			[
+				"lanca",
+				"public/styles/components/payments/planCard.styl"
+			],
+			[
+				"dockercom",
+				"docker-compose.yml"
+			],
+			[
+				"migration-te",
+				"test/unit-backend/payments/migration-test.coffee"
+			],
+			[
+				"coupons-",
+				"test/unit-backend/payments/coupons-test.coffee"
+			],
+			[
+				"public/views/ui/header/teamheader.coffee",
+				"public/views/ui/header/teamHeader.coffee"
+			],
+			[
+				"datamo",
+				"lib/datamodel.coffee"
+			],
+			[
+				"contropayments",
+				"lib/controllers/payments.coffee"
+			],
+			[
+				"applicapayments",
+				"public/applications/payments.coffee"
+			],
+			[
+				"layout",
+				"views/layout/layout.html"
+			],
+			[
+				"migration/team",
+				"views/payments/migration/team.html"
+			],
+			[
+				"coup",
+				"lib/payments/coupons.coffee"
+			],
+			[
+				"jsapi/pla",
+				"lib/controllers/jsapi/plans.coffee"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Workspaces/Apiary/apiary/apiary.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 308.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "Screeps",
+      "path": "/",
+      "folder_exclude_patterns": [
+        ".sync"
+      ]
+    }
+  ],
+  "settings": {
+    "tab_size": 2,
+    "translate_tabs_to_spaces": true,
+    "rulers": [80]
+  }
+}
